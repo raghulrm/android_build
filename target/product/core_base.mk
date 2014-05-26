@@ -17,7 +17,6 @@
 # that should not be in PDK should be added in lower level like core.mk.
 
 PRODUCT_PACKAGES += \
-    ContactsProvider \
     DefaultContainerService \
     TelephonyProvider \
     UserDictionaryProvider \

@@ -18,29 +18,17 @@ PRODUCT_POLICY := android.policy_phone
 PRODUCT_PROPERTY_OVERRIDES :=
 
 PRODUCT_PACKAGES := \
-	Calculator \
-	DeskClock \
-	Email \
-	Exchange2 \
 	FusedLocation \
-	Gallery2 \
 	Keyguard \
-	Apollo \
-	Mms \
 	OpenWnn \
-	PrintSpooler \
 	libWnnEngDic \
 	libWnnJpnDic \
 	libwnndict \
-	TeleService \
 	PinyinIME \
 	libjni_pinyinime \
 	SoftKeyboard \
 	SystemUI \
 	Trebuchet \
-	Development \
-	DevelopmentSettings \
-	Fallback \
 	Settings \
 	SdkSetup \
 	CustomLocale \
@@ -48,19 +36,9 @@ PRODUCT_PACKAGES := \
 	InputDevices \
 	LatinIME \
 	CertInstaller \
-	LiveWallpapersPicker \
-	ApiDemos \
-	GestureBuilder \
-	CubeLiveWallpapers \
-	QuickSearchBox \
-	WidgetPreview \
 	librs_jni \
 	ConnectivityTest \
 	GpsLocationTest \
-	CalendarProvider \
-	Calendar \
-	SmokeTest \
-	SmokeTestApp \
 	rild
 
 # Define the host tools and libs that are parts of the SDK.
