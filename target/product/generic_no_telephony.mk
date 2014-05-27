@@ -20,33 +20,21 @@
 PRODUCT_POLICY := android.policy_phone
 
 PRODUCT_PACKAGES := \
-    DeskClock \
-    Bluetooth \
-    Calculator \
-    Calendar \
     Camera2 \
     CertInstaller \
-    Email \
-    Exchange2 \
     FusedLocation \
     Gallery2 \
     InputDevices \
     Keyguard \
     LatinIME \
-    Launcher2 \
-    Music \
-    OneTimeInitializer \
-    PrintSpooler \
     Provision \
     Settings \
     SystemUI \
     TeleService \
-    CalendarProvider \
     bluetooth-health \
     hostapd \
-    wpa_supplicant.conf \
-    WallpaperCropper
-
+    wpa_supplicant.conf 
+    
 PRODUCT_PACKAGES += \
     audio \
     clatd \
