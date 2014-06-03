@@ -21,6 +21,7 @@ PRODUCT_POLICY := android.policy_phone
 
 PRODUCT_PACKAGES := \
     Camera2 \
+    Bluetooth \
     CertInstaller \
     FusedLocation \
     Gallery2 \
